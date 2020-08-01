@@ -6,5 +6,6 @@ import javax.persistence.Entity;
 public class Office {
     private String officename;
     private String location;
+    private String pincode;
 
 }
